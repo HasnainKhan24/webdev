@@ -1,0 +1,115 @@
+body {
+  background-color: #FAF0E6;
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 150%;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #A0522D;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #CD5C5C;
+}
+
+.view {
+  position: absolute;
+  top: 140px;
+  left: 380px;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: static;
+}
+
+.Pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  top: 60px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 1;
+}
+
+.skill-row1 {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 1;
+}
+.Books{  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 1;}
+
+  .coding{  width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 1;}
+
+.code1{ width: 25%;
+float: left;
+margin-right: 30px;}
+.lit{width: 25%;
+float: right;
+margin-left: 30px;}
+.bo{width: 25%;
+float: left;
+margin-right: 30px;}
+  .co{width: 25%;
+  float: right;
+margin-left: 30px;}
+
+.btn{
+  background: #CD5C5C;
+
+  background-image: -ms-linear-gradient(top, #CD5C5C , #A0522D);
+
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover{
+  background: #A0522D;;
+
+  background-image: -ms-linear-gradient(top,  #CD5C5C , #A0522D);
+
+  text-decoration: none;
+}
+
+.bottom-container{
+  background-color:  #CD5C5C;
+}
